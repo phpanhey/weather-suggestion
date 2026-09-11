@@ -53,7 +53,6 @@ func calculateSuggestion(temp float64) string {
 		return "👕 🍂"
 	}
 
-
 	if temp < 23 {
 		return "👕"
 	}
